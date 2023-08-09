@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U8GmEHB3Wrlxjd3ECEczQG1HvzxX1hUgST1KYZTAjkcdw1zn1Hgd+7tzgFfUIvLFT1FTuz+yuLsn3E9FlPNK6w==",
+  "dgSpecHash": "WdLHSWymCC/FR2TnwCR9fiKJeugk7TR+WZGmQfWSR7Qp/Thmj6yggsW+A1BvOLTQO7tr6SHeSe1QzwsmAJQ1QQ==",
   "success": true,
-  "projectFilePath": "C:\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "c:\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Neba\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Neba\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

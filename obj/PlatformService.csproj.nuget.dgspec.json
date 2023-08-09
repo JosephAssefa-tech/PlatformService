@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PlatformService\\PlatformService.csproj": {}
+    "c:\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\PlatformService\\PlatformService.csproj": {
+    "c:\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "c:\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\PlatformService\\PlatformService.csproj",
+        "projectPath": "c:\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\Neba\\.nuget\\packages\\",
-        "outputPath": "C:\\PlatformService\\obj\\",
+        "outputPath": "c:\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neba\\AppData\\Roaming\\NuGet\\NuGet.Config"
